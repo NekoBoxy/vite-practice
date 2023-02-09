@@ -2,7 +2,7 @@
 export default {
   data() {
     return {
-      text: 'HelloWorld'
+      text: 'Home'
     }
   },
 
@@ -15,6 +15,6 @@ export default {
 
 <style scoped>
 .boxy {
-  color: blue;
+  color: red;
 }
 </style>
